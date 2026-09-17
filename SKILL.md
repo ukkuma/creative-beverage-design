@@ -1,5 +1,5 @@
 ---
-name: creative-beverage-design
+name: creative_beverage_design
 description: Use when creating a visually distinctive, genuinely enjoyable beverage around one main ingredient, available ingredients, leftovers, or a target flavor or visual direction, including alcoholic drinks, mocktails, tea drinks, milk tea, fruit tea, yogurt drinks, coffee, cocoa, sparkling drinks, frozen drinks, dessert drinks, and hot beverages.
 ---
 
