@@ -3,6 +3,6 @@ A general-purpose skill for designing creative, visually appealing, and deliciou
 
 ## Acknowledgements
 
-特别感谢鱼头老师。与鱼头老师的一次交流，让我萌发了制作第一个Skill的想法，这个项目也由此开始。
+特别感谢鱼头老师。是鱼头老师的一句“蹲个Skill”，让我第一次真正动手尝试制作Skill，也由此开启了我的第一次Skill创作体验。
 
-Special thanks to 鱼头老师. A conversation with 鱼头老师 sparked the idea for my first Skill and became the starting point of this project.
+Special thanks to 鱼头老师. Her simple “蹲个Skill” was what prompted me to make a Skill for the first time, marking the beginning of my first hands-on Skill-building experience.
