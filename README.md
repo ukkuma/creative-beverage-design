@@ -12,7 +12,8 @@
 
 当前 GitHub 仓库保存：
 
-- `README.md`：阅读入口
+- `README.md`：人类阅读入口、成长记录与状态说明  
+- `SKILL.md`：GitHub 分发版 / 执行版 SKILL
 
 ---
 
