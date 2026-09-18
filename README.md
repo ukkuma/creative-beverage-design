@@ -12,27 +12,12 @@
 
 当前 GitHub 仓库保存：
 
-- `README.md`：人类阅读入口、成长记录与 Runtime 双链；
+- `README.md`：阅读入口
 - `SKILL.md`：GitHub 发布版 / 分发版 SKILL。
 
 ---
 
-## Runtime Link｜运行版双链
 
-**Runtime Area**  
-`00_sya_2nd_brain/03_work/10_skills/2026_09_17_creative_beverage_design/`
-
-**Current Runtime File**  
-`SKILL.md`
-
-**Drive File ID**  
-`1HcGwAd9V3U8GRPGwHS_oCJ3QvNfVqFDC`
-
-**GitHub Repository**  
-`ukkuma/creative-beverage-design`
-
-**GitHub SKILL File**  
-`SKILL.md`
 
 **Sync Status:** `SYNCED`
 
