@@ -975,3 +975,13 @@ Adjustment guide: tea too faint, brew it stronger rather than steeping longer. T
 - Do not generate images unless explicitly requested.
 - Do not include personal preferences, personal memory, names, relationship context, or user-specific defaults.
 - Treat new explicit instructions as overriding previous recipe assumptions.
+
+
+---
+
+## Runtime / Repository Link
+
+**Runtime:** `00_sya_2nd_brain/03_work/10_skills/2026_09_17_creative_beverage_design/SKILL.md`  
+**Repository:** `ukkuma/creative-beverage-design`  
+**Repository File:** `SKILL.md`  
+**Last Synced:** `2026-09-18`
