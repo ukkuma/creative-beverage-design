@@ -20,10 +20,10 @@
 ## Runtime Link｜运行版双链
 
 **Runtime Area**  
-`00_sya_2nd_brain/03_work/10_skills/`
+`00_sya_2nd_brain/03_work/10_skills/2026_09_17_creative_beverage_design/`
 
 **Current Runtime File**  
-`2026_09_17_creative_drink_design_skill.md`
+`SKILL.md`
 
 **Drive File ID**  
 `1HcGwAd9V3U8GRPGwHS_oCJ3QvNfVqFDC`
@@ -34,12 +34,9 @@
 **GitHub SKILL File**  
 `SKILL.md`
 
-**Sync Status:** `NEEDS_SYNC`
+**Sync Status:** `SYNCED`
 
-> 当前 Drive Runtime 与 GitHub `SKILL.md` 内容并不完全相同：GitHub 版已经扩展了更多饮品家族、温度状态、Texture Design 与更多示例；Drive Runtime 仍是较早、较短的版本。  
-> 因此两边现在已经建立逻辑双链，但 **不能视为已同步 Current**。后续同步时必须明确哪一版晋升为 Runtime Current。
-
-另外，新的 03-10 规则已经要求每个 Runtime SKILL 建独立文件夹；当前这个 SKILL 仍处于旧的单文件位置，待 Runtime 目录迁移时再调整路径，不在本次 GitHub README 更新里假装已经完成。
+> 2026-09-18 已完成 Runtime 与 GitHub `SKILL.md` 同步。当前 Runtime 已迁移为独立文件夹，并沿用原 Drive file ID；GitHub 与 Runtime 现在以同一套执行内容作为 Current。
 
 ---
 
@@ -177,9 +174,9 @@ Serve State 包括：
 ## 时间线｜Timeline
 
 - **2026-09-17｜念头与起点**：从「把没喝完、没那么好喝的饮料交给 AI 重新设计」这个日常用法出发；鱼头老师提出「搞个 Skill 吧」后，第一次把这套协作方法正式整理成可复用 SKILL。
-- **2026-09-17｜第一版可工作 Runtime**：Drive 中形成 `2026_09_17_creative_drink_design_skill.md`。
+- **2026-09-17｜第一版可工作 Runtime**：Drive 中形成第一版 `creative_drink_design` SKILL。
 - **2026-09-18｜GitHub 结构整理**：开始统一 GitHub 命名、README、SKILL 说明、Private 状态与 Runtime 双链。
-- **2026-09-18｜执行范围扩展**：GitHub `SKILL.md` 已扩展到更多 beverage families、serve states、texture design 与 worked examples；与 Drive Runtime 出现版本差异，因此标记为 `NEEDS_SYNC`。
+- **2026-09-18｜执行范围扩展与同步**：GitHub `SKILL.md` 扩展到更多 beverage families、serve states、texture design 与 worked examples；随后同步回 Drive Runtime，并迁移到独立 SKILL 文件夹。
 
 > Timeline 记录真正改变 SKILL 定义与执行范围的节点，不记录每次小措辞调整。
 
@@ -235,7 +232,9 @@ GitHub 端主要用于：
 - 分发；
 - 与 Runtime 建立双链。
 
-如果 GitHub `SKILL.md` 与 Runtime 内容不一致：
+当前 GitHub `SKILL.md` 与 Runtime 已同步。
+
+如果未来再次出现差异：
 
 > **不要默认选择更长的那一份。先确认 Current，再同步。**
 
@@ -260,9 +259,9 @@ GitHub 端主要用于：
 
 ## 下一步｜Next
 
-- [ ] 确认 GitHub 版与 Drive Runtime 哪一份作为下一次同步的 Current。
-- [ ] 按新的 03-10 规则，把 Runtime 从单文件迁移为独立 SKILL 文件夹。
-- [ ] 完成同步后，把 `Sync Status` 从 `NEEDS_SYNC` 改为 `SYNCED`。
+- [x] GitHub 版与 Drive Runtime 统一为同一个 Current。
+- [x] Runtime 迁移为独立 SKILL 文件夹。
+- [x] `Sync Status` 更新为 `SYNCED`。
 - [ ] 只有明确决定公开时，才把当前 Private 状态改为 Public。
 
 ---
