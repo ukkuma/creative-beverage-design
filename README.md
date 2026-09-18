@@ -13,15 +13,6 @@
 当前 GitHub 仓库保存：
 
 - `README.md`：阅读入口
-- `SKILL.md`：GitHub 发布版 / 分发版 SKILL。
-
----
-
-
-
-**Sync Status:** `SYNCED`
-
-> 2026-09-18 已完成 Runtime 与 GitHub `SKILL.md` 同步。当前 Runtime 已迁移为独立文件夹，并沿用原 Drive file ID；GitHub 与 Runtime 现在以同一套执行内容作为 Current。
 
 ---
 
