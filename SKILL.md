@@ -979,9 +979,10 @@ Adjustment guide: tea too faint, brew it stronger rather than steeping longer. T
 
 ---
 
-## Runtime / Repository Link
+## Repository Link
 
-**Runtime:** `00_sya_2nd_brain/03_work/10_skills/2026_09_17_creative_beverage_design/SKILL.md`  
 **Repository:** `ukkuma/creative-beverage-design`  
 **Repository File:** `SKILL.md`  
 **Last Synced:** `2026-09-18`
+
+> Runtime location and internal Drive identifiers are intentionally not published in the repository.
