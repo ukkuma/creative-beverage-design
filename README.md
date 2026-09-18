@@ -12,3 +12,21 @@ A general-purpose skill for designing creative, visually appealing, and deliciou
 这是我的第一个Skill。谢谢鱼头老师，蹲到了。
 
 Special thanks to 鱼头老师. A casual conversation about using AI to redesign unfinished or not-so-good drinks led to one simple suggestion: “搞个Skill吧” — followed by “坐蹲”. That small nudge made me realize that the way I was already working with AI could be turned into a reusable Skill. This became my first hands-on Skill project: `creative_beverage_design`.
+
+## 时间线 / Timeline
+
+### 2026-09-17
+
+- **萌芽**：从“把没喝完、没那么好喝的饮料交给AI重新设计”这个日常用法出发。
+- 鱼头老师看到后说：“搞个Skill吧”，随后“坐蹲”。
+- 这句话促使我第一次认真把日常与AI协作的方法整理成可复用的Skill。
+- 当天完成了`creative_beverage_design`的第一个可工作版本。
+
+### 2026-09-18
+
+- **整理与归档**：开始统一GitHub命名、README、Skill说明与项目结构。
+- 补充“灵感与致谢”，正式记录这个Skill的诞生背景与鱼头老师的点火作用。
+- 建立时间线，用来记录这个项目真正长出新东西的节点，而不是记录日常流水账。
+
+> 这里记录的不是“完成了多少”，而是这个Skill每一次真正长出新东西的时间点。
+
