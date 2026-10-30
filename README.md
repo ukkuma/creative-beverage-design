@@ -249,13 +249,13 @@ GitHub与OB开源库中的对应文件应保持相同内容。
 * [x] 扩展完整饮品设计范围
 * [x] 清除个人Drive路径、File ID等内部基础设施信息
 * [x] GitHub与OB开源库统一为同一个Current
-* [ ] 只有明确决定公开时，才把当前Private状态改为Public
+* [x] 已公开（Public）
 
 ---
 
 ## Publication Notes
 
-**Current Visibility:** Private
+**Current Visibility:** Public
 
 这个SKILL可以继续发展，也可以在未来发布。
 
@@ -263,6 +263,6 @@ GitHub与OB开源库中的对应文件应保持相同内容。
 
 > **可发布 ≠ 当前已经公开。**
 
-目前保持Private。
+目前为 Public。
 
 若未来明确转为Public，再进行公开版本所需的来源、说明与发布检查。
