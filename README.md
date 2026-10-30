@@ -7,7 +7,7 @@
 
 **Type:** `SKILL`
 **Status:** `Current / Developing`
-**Visibility:** `Private`
+**Visibility:** `Public`
 **Current Confirmed:** `2026-09-18`
 
 当前仓库保存：
